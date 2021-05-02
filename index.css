@@ -1,17 +1,27 @@
+body {
+    font-size: 100%;
+}
+
+.landing-gradient {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .vp-50 {
     min-height: 50vh;
 }
 
-.landing-gradient{
+.blur {}
+
+.landing-gradient {
     background: rgb(0,4,9);
-    background: linear-gradient(180deg, rgba(0,4,9,1) 0%, rgba(14,33,55,1) 78%, rgba(14,47,91,1) 86%, rgba(24,72,135,1) 93%, rgba(22,87,172,1) 100%); 
+    background: linear-gradient(180deg, rgba(0,4,9,1) 0%, rgba(4,11,21,1) 68%, rgba(5,16,31,1) 77%, rgba(29,65,112,1) 99%);
 }
 
-
 .top-stack {
-    background-color: rgba(255, 255, 255, 0.287);
+    background-color: rgba(143, 142, 146, 0.089);
     color: white;
     font-weight: bolder;
+    font-size: 1em;
     border-radius: 50px;
     border: 3px solid yellow;
     width: 65vw;
@@ -26,12 +36,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    backdrop-filter: blur(60%);
+}
+
+.top-stack:hover, .btm-stack:hover {
+    background-color: rgb(92, 79, 153);
 }
 
 .btm-stack {
-    background-color: rgba(255, 255, 255, 0.287);
+    background-color: rgba(143, 142, 146, 0.089);
     border: 3px solid yellow;
     color: white;
+    font-size: 1em;
     font-weight: bolder;
     border-radius: 50px;
     width: 65vw;
@@ -46,4 +62,34 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    backdrop-filter: blur(60%);
+}
+
+.round {
+    height: 76vw;
+    width: 76vw;
+    object-fit: cover;
+    border-radius: 70%;
+    border: 3px solid yellow;
+    padding: 0;
+    margin: 0;
+}
+
+.ME-page {
+    background: rgb(29,65,112);
+    background: linear-gradient(180deg, rgba(29,65,112,1) 0%, rgba(12,59,120,1) 53%, rgba(21,77,149,1) 100%); 
+}
+
+.words {
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.fullstop {
+    color: yellow;
+    font-size: 1.5em;
+    padding-left: 4px;
 }
