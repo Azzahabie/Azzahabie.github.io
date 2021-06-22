@@ -1,47 +1,49 @@
-body{
-    text-decoration: none;
-    color: whitesmoke;
-    margin: 0;
-    padding:0;
-    
-}
-h1{
-    padding: 0;
-    margin: 0;
-}
-main{
-    background-color: black;
-    height: 100vh
+.hi {
+    background: linear-gradient(304deg, #0b9975, #57a146, #4d4ad2);
+    background-size: 600% 600%;
+    -webkit-animation: HI 23s ease infinite;
+    -moz-animation: HI 23s ease infinite;
+    animation: HI 23s ease infinite;
+    min-height: 25vh;
+   
 }
 
-#meSection{
+@-webkit-keyframes HI {
+    0%{background-position:0% 15%}
+    50%{background-position:100% 86%}
+    100%{background-position:0% 15%}
+}
+@-moz-keyframes HI {
+    0%{background-position:0% 15%}
+    50%{background-position:100% 86%}
+    100%{background-position:0% 15%}
+}
+@keyframes HI {
+    0%{background-position:0% 15%}
+    50%{background-position:100% 86%}
+    100%{background-position:0% 15%}
+}
+.h{
+    height: 30vh;
     display: flex;
     justify-content: center;
-    padding: 20px 10px 10px 10px;
-    height: 40%;
-  
-}
-#me{
-    width: 300px;
-    height: 300px;   
-}
-
-#myNameSection{
-    min-height: 35%;
+    align-items: center;
     text-align: center;
+    flex-direction: column;
+    border-radius: 20px;
     
 }
-#answerSection{
-    display:flex;
-    margin: 0 auto;
-    width: 80%;
-    justify-content: space-between;
+.app{
+    background-color: violet;
+}
+.website{
+    background-color: teal;
+}
+.design{
+    background-color: greenyellow;
 }
 
-#hangUp{
+#lol{
 
     
-}
-#pickUp{
-
 }
