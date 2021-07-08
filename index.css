@@ -47,3 +47,50 @@
 
     
 }
+
+.h100{
+  padding: 20px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+
+
+.cls-1{
+    width: 10%;
+}
+@media only screen and (max-width: 1196px) {
+    .cls-1 {
+      width: 20%;
+    }
+  }
+@media only screen and (max-width: 768px) {
+    .cls-1 {
+      width: 35%;
+    }
+  }
+@media only screen and (max-width: 460px) {
+    .cls-1 {
+      width: 45%;
+    }
+  }
+.cls-2 {
+    fill: #bcbec0;
+}
+
+.cls-3 {
+    fill: #00a651;
+}
+
+.vp{
+    height: 100vh;
+}
+.logo{
+    width: 150px;
+    height: auto;
+}
+.kink{
+    background-color: black;
+    max-width: 700px;
+    height: auto;
+    color: white;
+}

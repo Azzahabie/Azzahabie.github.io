@@ -1,9 +1,9 @@
-img {
-    
-}
+img {}
+
 #theimages {
-  margin: 20px;
+    margin: 20px;
 }
+
 p {
     font-size: 1.2em;
 }
@@ -169,24 +169,54 @@ hr {
 
 .cls-3 {
     fill: #00a651;
-    
 }
 
-.cig{
+.cig {
     background-color: aqua;
     width: 250px;
     height: 94px;
-    
 }
 
-.responsive-img{
+.responsive-img {
     max-width: 100%;
     height: auto;
 }
 
-.photoshop{
-    background-color:#001833 ;
+.photoshop {
+    background-color: #001833;
     color: #2daaff;
     padding: 5px;
     border-radius: 10px;
+}
+
+.XD {
+    background-color: #470137;
+    color: #ff61f6;
+    padding: 5px;
+    border-radius: 10px;
+}
+.ai{
+    background-color: #330000;
+    color: #ff9a00;
+    padding: 5px;
+    border-radius: 10px;
+}
+a:link {
+    color: #00a651;
+}
+
+a:visited {
+    color: #00a651;
+}
+
+/* mouse over link */
+
+a:hover {
+    color:#00a651;
+}
+
+/* selected link */
+
+a:active {
+    color: #00a651;
 }
