@@ -1,56 +1,68 @@
-img{
- width: 55%;
-}
-p{
-    font-size: 1.2em;
+img {
     
 }
-.html{
-    color: #f06529 
+#theimages {
+  margin: 20px;
 }
-.css{
-    color:DodgerBlue
+p {
+    font-size: 1.2em;
 }
-.javascript{
-    color:#ac9801
+
+.html {
+    color: #f06529
 }
-.nodeGreen{
-    color:#68A063
+
+.css {
+    color: DodgerBlue
 }
-.nodeBlack{
+
+.javascript {
+    color: #ac9801
+}
+
+.nodeGreen {
+    color: #68A063
+}
+
+.nodeBlack {
     color: #303030;
 }
-.myOrange{
-    color:#F29111
+
+.myOrange {
+    color: #F29111
 }
-.myBlue{
-    color:#00758F
+
+.myBlue {
+    color: #00758F
 }
-hr{
+
+hr {
     width: 200px;
     background-color: red;
 }
-.max-content{
+
+.max-content {
     width: max-content;
 }
+
 .myShadow {
-    -webkit-box-shadow: 6px 7px 6px -1px rgba(0,0,0,0.87); 
-    box-shadow: 6px 7px 6px -1px rgba(0,0,0,0.87);
+    -webkit-box-shadow: 6px 7px 6px -1px rgba(0, 0, 0, 0.87);
+    box-shadow: 6px 7px 6px -1px rgba(0, 0, 0, 0.87);
 }
 
-.bar{
+.bar {
     width: 100%;
     height: 3px;
     background-color: blueviolet;
     margin: 0 auto;
 }
-#buttoned{
+
+#buttoned {
     min-height: 140%;
     border-radius: 15px;
     font-size: 1.2em;
     background-color: rgba(255, 255, 255, 0.842);
 }
-
 
 .faded {
     background: linear-gradient(304deg, #0b9975, #57a146, #4d4ad2);
@@ -62,20 +74,41 @@ hr{
 }
 
 @-webkit-keyframes faded {
-    0%{background-position:0% 15%}
-    50%{background-position:100% 86%}
-    100%{background-position:0% 15%}
+    0% {
+        background-position: 0% 15%
+    }
+    50% {
+        background-position: 100% 86%
+    }
+    100% {
+        background-position: 0% 15%
+    }
 }
+
 @-moz-keyframes faded {
-    0%{background-position:0% 15%}
-    50%{background-position:100% 86%}
-    100%{background-position:0% 15%}
+    0% {
+        background-position: 0% 15%
+    }
+    50% {
+        background-position: 100% 86%
+    }
+    100% {
+        background-position: 0% 15%
+    }
 }
+
 @keyframes faded {
-    0%{background-position:0% 15%}
-    50%{background-position:100% 86%}
-    100%{background-position:0% 15%}
+    0% {
+        background-position: 0% 15%
+    }
+    50% {
+        background-position: 100% 86%
+    }
+    100% {
+        background-position: 0% 15%
+    }
 }
+
 .fadedBar {
     background: linear-gradient(304deg, #0b9975, #99e289, #4d4ad2);
     background-size: 600% 600%;
@@ -85,17 +118,75 @@ hr{
 }
 
 @-webkit-keyframes fadedBar {
-    0%{background-position:0% 15%}
-    50%{background-position:100% 86%}
-    100%{background-position:0% 15%}
+    0% {
+        background-position: 0% 15%
+    }
+    50% {
+        background-position: 100% 86%
+    }
+    100% {
+        background-position: 0% 15%
+    }
 }
+
 @-moz-keyframes fadedBar {
-    0%{background-position:0% 15%}
-    50%{background-position:100% 86%}
-    100%{background-position:0% 15%}
+    0% {
+        background-position: 0% 15%
+    }
+    50% {
+        background-position: 100% 86%
+    }
+    100% {
+        background-position: 0% 15%
+    }
 }
+
 @keyframes fadedBar {
-    0%{background-position:0% 15%}
-    50%{background-position:100% 86%}
-    100%{background-position:0% 15%}
+    0% {
+        background-position: 0% 15%
+    }
+    50% {
+        background-position: 100% 86%
+    }
+    100% {
+        background-position: 0% 15%
+    }
+}
+
+#buttoned {
+    min-width: 50%;
+    max-height: 40px;
+    overflow: hidden;
+}
+
+.cls-1 {
+    fill: rgb(214, 214, 214);
+}
+
+.cls-2 {
+    fill: #bcbec0;
+}
+
+.cls-3 {
+    fill: #00a651;
+    
+}
+
+.cig{
+    background-color: aqua;
+    width: 250px;
+    height: 94px;
+    
+}
+
+.responsive-img{
+    max-width: 100%;
+    height: auto;
+}
+
+.photoshop{
+    background-color:#001833 ;
+    color: #2daaff;
+    padding: 5px;
+    border-radius: 10px;
 }
