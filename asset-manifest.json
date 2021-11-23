@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a66c34a5.chunk.css",
-    "main.js": "/static/js/main.41982a2a.chunk.js",
-    "main.js.map": "/static/js/main.41982a2a.chunk.js.map",
+    "main.js": "/static/js/main.21355503.chunk.js",
+    "main.js.map": "/static/js/main.21355503.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ae5d5bcb.js",
     "runtime-main.js.map": "/static/js/runtime-main.ae5d5bcb.js.map",
     "static/css/2.ed1298f3.chunk.css": "/static/css/2.ed1298f3.chunk.css",
@@ -16,28 +16,41 @@
     "static/media/Contact.56a23c37.png": "/static/media/Contact.56a23c37.png",
     "static/media/RealSaleHeader.1af6721d.png": "/static/media/RealSaleHeader.1af6721d.png",
     "static/media/Work.45dbc6a2.png": "/static/media/Work.45dbc6a2.png",
-    "static/media/cvsHeader.33204044.png": "/static/media/cvsHeader.33204044.png",
+    "static/media/boss1.d48b8d64.gif": "/static/media/boss1.d48b8d64.gif",
+    "static/media/collection.0c461b29.gif": "/static/media/collection.0c461b29.gif",
+    "static/media/cvsHeader.d48b8d64.gif": "/static/media/cvsHeader.d48b8d64.gif",
     "static/media/darkmode.b8c400e5.png": "/static/media/darkmode.b8c400e5.png",
     "static/media/diagnose.cc59de5d.png": "/static/media/diagnose.cc59de5d.png",
     "static/media/diagnose2.28689f2a.png": "/static/media/diagnose2.28689f2a.png",
     "static/media/diagnose3.e6962692.png": "/static/media/diagnose3.e6962692.png",
+    "static/media/finalartwork.2942eb72.jpg": "/static/media/finalartwork.2942eb72.jpg",
     "static/media/finding.8636cb37.png": "/static/media/finding.8636cb37.png",
     "static/media/home.1af6721d.png": "/static/media/home.1af6721d.png",
     "static/media/home.c2fc3e2d.png": "/static/media/home.c2fc3e2d.png",
+    "static/media/homepage.6b791f88.gif": "/static/media/homepage.6b791f88.gif",
+    "static/media/intocol.97565533.gif": "/static/media/intocol.97565533.gif",
+    "static/media/intogame.0a7cd281.gif": "/static/media/intogame.0a7cd281.gif",
     "static/media/item.fda800e2.png": "/static/media/item.fda800e2.png",
     "static/media/kcollectHeader.dba8682b.gif": "/static/media/kcollectHeader.dba8682b.gif",
+    "static/media/lastboss.f82e2f7b.gif": "/static/media/lastboss.f82e2f7b.gif",
+    "static/media/levels.1b540c37.gif": "/static/media/levels.1b540c37.gif",
     "static/media/library.ed55476b.png": "/static/media/library.ed55476b.png",
+    "static/media/login.fc141277.gif": "/static/media/login.fc141277.gif",
+    "static/media/mockup.f648a1fd.jpg": "/static/media/mockup.f648a1fd.jpg",
+    "static/media/moodboard.6a5c7162.jpg": "/static/media/moodboard.6a5c7162.jpg",
     "static/media/portfolioHeader.a65e4e2f.png": "/static/media/portfolioHeader.a65e4e2f.png",
     "static/media/posterHeader.2942eb72.jpg": "/static/media/posterHeader.2942eb72.jpg",
     "static/media/riderPalHeader.5d4efcb0.png": "/static/media/riderPalHeader.5d4efcb0.png",
     "static/media/spgamesHeader.0a7cd281.gif": "/static/media/spgamesHeader.0a7cd281.gif",
-    "static/media/splash.5d4efcb0.png": "/static/media/splash.5d4efcb0.png"
+    "static/media/splash.5d4efcb0.png": "/static/media/splash.5d4efcb0.png",
+    "static/media/start.35da9614.gif": "/static/media/start.35da9614.gif",
+    "static/media/start.7bd8cdcf.gif": "/static/media/start.7bd8cdcf.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.ae5d5bcb.js",
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.915f195c.chunk.js",
     "static/css/main.a66c34a5.chunk.css",
-    "static/js/main.41982a2a.chunk.js"
+    "static/js/main.21355503.chunk.js"
   ]
 }
