@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.11259b8b.chunk.css",
-    "main.js": "/static/js/main.752c3581.chunk.js",
-    "main.js.map": "/static/js/main.752c3581.chunk.js.map",
+    "main.js": "/static/js/main.7395b8ea.chunk.js",
+    "main.js.map": "/static/js/main.7395b8ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ae5d5bcb.js",
     "runtime-main.js.map": "/static/js/runtime-main.ae5d5bcb.js.map",
     "static/css/2.ed1298f3.chunk.css": "/static/css/2.ed1298f3.chunk.css",
@@ -27,6 +27,8 @@
     "static/media/diagnose3.e6962692.png": "/static/media/diagnose3.e6962692.png",
     "static/media/finalartwork.2942eb72.jpg": "/static/media/finalartwork.2942eb72.jpg",
     "static/media/finding.8636cb37.png": "/static/media/finding.8636cb37.png",
+    "static/media/github.895bace5.png": "/static/media/github.895bace5.png",
+    "static/media/gmail.ec131e99.png": "/static/media/gmail.ec131e99.png",
     "static/media/home.1af6721d.png": "/static/media/home.1af6721d.png",
     "static/media/home.c2fc3e2d.png": "/static/media/home.c2fc3e2d.png",
     "static/media/homepage.6b791f88.gif": "/static/media/homepage.6b791f88.gif",
@@ -46,13 +48,14 @@
     "static/media/spgamesHeader.0a7cd281.gif": "/static/media/spgamesHeader.0a7cd281.gif",
     "static/media/splash.5d4efcb0.png": "/static/media/splash.5d4efcb0.png",
     "static/media/start.35da9614.gif": "/static/media/start.35da9614.gif",
-    "static/media/start.7bd8cdcf.gif": "/static/media/start.7bd8cdcf.gif"
+    "static/media/start.7bd8cdcf.gif": "/static/media/start.7bd8cdcf.gif",
+    "static/media/tele.51f93b41.png": "/static/media/tele.51f93b41.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ae5d5bcb.js",
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.915f195c.chunk.js",
     "static/css/main.11259b8b.chunk.css",
-    "static/js/main.752c3581.chunk.js"
+    "static/js/main.7395b8ea.chunk.js"
   ]
 }
